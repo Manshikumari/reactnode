@@ -1,13 +1,10 @@
 
 import React from 'react'
-
-import hlo from './hlo';
+import Hlo from './Hlo';
 function App(){
   return(
     <div className='App'>
-     <hlo/>
-     <hlo/>
-     <hlo/>
+    <Hlo/>
       </div>
   );
 }
