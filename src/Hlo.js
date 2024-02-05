@@ -1,5 +1,4 @@
 import React from 'react'
-
 function Hlo() {
     return (
       <div className='main'>
