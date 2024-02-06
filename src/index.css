@@ -41,8 +41,18 @@ form{
 }
 #box{
     padding-left: 300px;
-    height: 150px;
+    height: 70px;
     width: 50%;
     border: none;
+    margin: 20px 20px;
 
+}
+#btn{
+    height: 70px;
+    width: 200px;
+    background-color: blue;
+    color: white;
+    padding: 20px 20px;
+    border: none;
+     
 }

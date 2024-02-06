@@ -9,6 +9,11 @@ function Hlo() {
             <form>
                <label id='pno'> Phone No. </label>
               <input type='text' id='box'></input>
+              <label id='pno'> Password </label>
+              <input type='text' id='box'></input>
+              <label id='pno'> O.T.P </label>
+              <input type='text' id='box'></input>
+              <button id='btn'>Submit</button>
             </form>
         </div>
         </div>
